@@ -1,0 +1,5 @@
+﻿  Main.cpp
+c:\users\emi_s_000\documents\visual studio 2017\projects\poo3\tarea3poo\main.cpp(16): warning C4018: '<': no coinciden signed/unsigned
+c:\users\emi_s_000\documents\visual studio 2017\projects\poo3\tarea3poo\main.cpp(30): warning C4018: '<': no coinciden signed/unsigned
+  Tarea3POO.vcxproj -> C:\Users\emi_s_000\Documents\Visual Studio 2017\Projects\POO3\Debug\Tarea3POO.exe
+  Tarea3POO.vcxproj -> C:\Users\emi_s_000\Documents\Visual Studio 2017\Projects\POO3\Debug\Tarea3POO.pdb (Partial PDB)
