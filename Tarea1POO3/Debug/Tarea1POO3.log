@@ -1,0 +1,5 @@
+﻿  Main.cpp
+c:\users\emi_s_000\documents\visual studio 2017\projects\poo3\tarea1poo3\main.cpp(131): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\emi_s_000\documents\visual studio 2017\projects\poo3\tarea1poo3\main.cpp(127): warning C4101: 'j': variable local sin referencia
+  Tarea1POO3.vcxproj -> C:\Users\emi_s_000\Documents\Visual Studio 2017\Projects\POO3\Debug\Tarea1POO3.exe
+  Tarea1POO3.vcxproj -> C:\Users\emi_s_000\Documents\Visual Studio 2017\Projects\POO3\Debug\Tarea1POO3.pdb (Partial PDB)
