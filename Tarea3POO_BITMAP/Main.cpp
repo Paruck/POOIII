@@ -137,8 +137,9 @@ int main(int argc, char** argv) {
 	BMP* bmp;
 
 	bmp = LoadBitmapFile("creeper.bmp");
+	for (int i = bmp->info.biHeight; --i;)
 		for(int j = bmp->info.biWidth; j--;)
-			SetPixel(bmp, 10, j, rand()%255, rand()%255, rand()%255);
+			SetPixel(bmp, i, j, rand()%255, rand()%255, rand()%255);	
 	WriteBMP("creeper3.bmp", bmp);
 	delete[] bmp->data;
 	delete bmp;
